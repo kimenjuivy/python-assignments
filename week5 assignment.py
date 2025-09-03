@@ -1,5 +1,3 @@
-# Assignment 1 + Activity 2 in one file (Python 3.x safe)
-
 from abc import ABC, abstractmethod
 
 # ------------------------
